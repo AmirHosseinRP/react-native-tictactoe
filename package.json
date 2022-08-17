@@ -18,10 +18,11 @@
     "react-native-expo-viewport-units": "^0.0.8",
     "react-native-restart": "^0.0.24",
     "react-native-viewport-units": "^0.0.5",
-    "react-native-web": "~0.18.7"
+    "react-native-web": "~0.18.7",
+    "expo-dev-client": "~1.2.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.18.6"
   },
   "private": true
 }

@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "nativeApp",
+    "name": "TicTacToe",
     "slug": "nativeApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,13 +18,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.amirhossein.rp.nativeApp",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.amirhossein.rp.nativeApp",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
